@@ -1,0 +1,5 @@
+SERVER = "datafeeds.networkrail.co.uk"
+PORT = 61618
+USERNAME = "venkatesh@zyobee.com"
+PASSWORD = "1qaZXsw2@"
+
